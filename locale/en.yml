@@ -1,0 +1,9 @@
+aixueyuan-image-captcha:
+  forum:
+    signup:
+      captcha_label: "Enter Captcha Code"
+      captcha_placeholder: "Enter the code shown in image"
+  admin:
+    settings:
+      title: "Image Captcha Settings"
+      enabled: "Enable Image Captcha"
