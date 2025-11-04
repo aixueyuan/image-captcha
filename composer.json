@@ -1,0 +1,25 @@
+{
+    "name": "aixueyuan/image-captcha",
+    "description": "Skeleton extension placeholder for Image Captcha.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aixueyuan\\ImageCaptcha\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Image Captcha (Skeleton)",
+            "category": "other",
+            "icon": {
+                "name": "fas fa-robot",
+                "backgroundColor": "#238c59",
+                "color": "#fff"
+            }
+        }
+    }
+}
