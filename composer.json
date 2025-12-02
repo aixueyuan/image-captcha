@@ -1,6 +1,6 @@
 {
     "name": "aixueyuan/image-captcha",
-    "description": "Skeleton extension placeholder for Image Captcha.",
+    "description": "Image Captcha.",
     "type": "flarum-extension",
     "license": "MIT",
     "require": {
@@ -13,7 +13,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Image Captcha (Skeleton)",
+            "title": "Image Captcha",
             "category": "other",
             "icon": {
                 "name": "fas fa-robot",
